@@ -9,7 +9,7 @@
 🎉This is a web-server program written in python.
 😎You can change the port in the last few lines.
 😊Put the HTML page source code in the Views folder.
-😉Then access the local ip+ port number.
+😉Then access the local ip+ port number.(The default value is 127.0.0.1:8000.)
 😜You can also modify parameters such as the maximum number of connections in the first few lines.
 😉Thank you for your use.
 😁If there is a vulnerability, please contact me.
